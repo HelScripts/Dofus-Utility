@@ -1,0 +1,10 @@
+﻿  switcher.cpp
+C:\Users\Jack\Documents\GitHub\Dofus-Util\Dofus-Util\switcher.h(15,14): warning C4101: 'class_name': unreferenced local variable
+C:\Users\Jack\Documents\GitHub\Dofus-Util\Dofus-Util\switcher.cpp(62,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jack\Documents\GitHub\Dofus-Util\Dofus-Util\switcher.cpp(82,23): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  4 of 451 functions ( 0.9%) were compiled, the rest were copied from previous compilation.
+    3 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Dofus-Util.vcxproj -> C:\Users\Jack\Documents\GitHub\Dofus-Util\Release\Dofus-Util.exe
