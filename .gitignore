@@ -3,4 +3,4 @@ Dofus-Util.sln
 Release/
 x64/
 Dofus-Util/Release/
-*.vcxproj
+**/vcxproj*
