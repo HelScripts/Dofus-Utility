@@ -1,0 +1,6 @@
+Dofus-Util.sln
+.gitattributes
+Release/
+x64/
+Dofus-Util/Release/
+*.vcxproj
